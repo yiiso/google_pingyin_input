@@ -11,14 +11,7 @@ google 拼音输入法使用五笔词库
 
 设置->属性设置->词典->词典选项->编辑自定义短语->导入 。 需要一段时间，具体看电脑配置，30分钟左右。
 
-如下图：
 
-![](file:///C:/Users/genre/AppData/Roaming/marktext/images/2023-02-25-20-30-54-image.png?msec=1677328479097)
-
-![](file://C:\Users\genre\AppData\Roaming\marktext\images\2023-02-25-20-31-55-image.png?msec=1677328315257)
-
-![](file:///C:/Users/genre/AppData/Roaming/marktext/images/2023-02-25-20-33-30-image.png?msec=1677328469509)
-
-![](file://C:\Users\genre\AppData\Roaming\marktext\images\2023-02-25-20-34-23-image.png?msec=1677328463821)
-
-提供两个词库，一个是单字词库，一个是包含两字的词库。两字的词库有个异常， 就是单字和双字重码时， 可能会出现双字排第一位，单字排第二位，目前除了删除双字无找到其他好的解决方案
+提供两个词库， 
+google-wubi-单字版：只有单个字的五笔编码，不到1万个词，导入速度较快。
+qq-wubi精简版词库：通过qq五笔词库进行精简后的词库，总词量20000多条，导入速度较慢 。 异常：单字和双字重码时， 可能会出现双字排第一位，单字排第二位，目前除了删除双字无其他好的解决方案
